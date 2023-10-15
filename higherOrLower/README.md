@@ -15,8 +15,7 @@ The Higher or Lower game is a fun and interactive Android app that challenges th
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](https://github.com/bluekitsune-sad/smallerProjects/blob/main/screenshots/hlapp.PNG)
 
 ## Installation
 
@@ -46,6 +45,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at example@email.com.
+If you have any questions or suggestions, feel free to contact us at saadshsaadshaan619@gmail.com .
 
 Enjoy playing the Higher or Lower game!
