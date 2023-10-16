@@ -25,7 +25,7 @@ This Android application uses the OkHttp library to retrieve weather information
 
 ## Example
 
-![WeatherApp Screenshot](screenshots/screenshot.png)
+![WeatherApp Screenshot](https://github.com/bluekitsune-sad/smallerProjects/blob/main/screenshots/wapp.PNG)
 
 ## License
 
