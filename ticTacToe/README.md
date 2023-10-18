@@ -27,10 +27,6 @@ Welcome to the Tic-Tac-Toe game! Play with a friend and see who can align three 
 
 ## Author 👩‍💻👨‍💻
 
-- Your Name
-
-## Acknowledgments 🙌
-
-Special thanks to [OpenAI](https://www.openai.com/) for the AI-powered assistant that helped create this README. ✨
+- ![Saad](https://github.com/bluekitsune-sad)
 
 Have fun playing Tic-Tac-Toe!
