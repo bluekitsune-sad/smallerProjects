@@ -18,7 +18,7 @@ Welcome to the Tic-Tac-Toe game! Play with a friend and see who can align three 
 
 ## Screenshot 📷
 
-![Tic-Tac-Toe Screenshot](https://github.com/bluekitsune-sad/smallerProjects/blob/main/screenshots/tttapp.PNG)
+![Tic-Tac-Toe Screenshot](../screenshots/tttapp.PNG)
 
 ## Technologies Used 💻
 
