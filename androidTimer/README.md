@@ -10,7 +10,7 @@ The Android Timer App is a simple timer application that allows you to set a cou
 4. When the timer reaches zero, it will play a sound to alert you.
 5. Press the "Stop" button to reset the timer.
 
-![Android Timer Screenshot](../screenshots/timer_app.png)
+![Android Timer Screenshot](../screenshots/tapp.png)
 
 ## Technologies Used 💻
 
@@ -29,7 +29,7 @@ The core functionality of this app includes:
 
 ## Author 👩‍💻👨‍💻
 
-- [Your Name](https://github.com/your-github-username)
+- [Saad](https://github.com/bluekitsune-sad)
 
 ## Additional Notes 📝
 
