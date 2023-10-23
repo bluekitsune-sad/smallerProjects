@@ -19,7 +19,7 @@ The Android To-Do List App is a simple task management app designed for Android 
 Here are some screenshots of the Android To-Do List App in action:
 
 📱 Mobile:
-<img src="https://github.com/bluekitsune-sad/smallerProjects/blob/main/screenshots/tdlapp.PNG" alt="Mobile Screenshot" width="300" >
+<img src="../screenshots/tdlapp.PNG" alt="Mobile Screenshot" width="300" >
 
 ## 📋 Features
 
