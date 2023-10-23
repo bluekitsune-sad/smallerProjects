@@ -27,4 +27,14 @@ The core functionality of this app lies in generating and displaying times table
 
 ## Author 👩‍💻👨‍💻
 
-- ![Saad](https://github.com/bluekitsune-sad)
+- [Saad](https://github.com/bluekitsune-sad)
+
+## How to Contribute 🤝
+
+1. Fork the repository by clicking the "Fork" button at the top right of this page.
+2. Clone the forked repository to your local machine: `git clone https://github.com/your-username/times-table-app.git`
+3. Make your code changes and improvements.
+4. Commit and push your changes to your forked repository.
+5. Create a Pull Request to merge your changes back into the original repository.
+
+Enjoy practicing your times tables with the app!
