@@ -28,9 +28,3 @@ The core functionality of this app lies in generating and displaying times table
 ## Author 👩‍💻👨‍💻
 
 - ![Saad](https://github.com/bluekitsune-sad)
-
-## Acknowledgments 🙌
-
-Special thanks to [OpenAI](https://www.openai.com/) for the AI-powered assistant that helped create this README. ✨
-
-Enjoy practicing your times tables with the app!
