@@ -45,6 +45,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at saadshsaadshaan619@gmail.com .
+If you have any questions or suggestions, feel free to contact me at [Email](mailto:saadshaan619@gmail.com) .
 
 Enjoy playing the Higher or Lower game!
