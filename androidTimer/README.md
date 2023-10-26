@@ -33,6 +33,10 @@ The core functionality of this app includes:
 
 - [Saad](https://github.com/bluekitsune-sad)
 
+## Get in Touch:
+
+- 📧 [Email me](mailto:saadshaan619@gmail.com)
+
 ## Additional Notes 📝
 
 This code also includes commented-out code blocks that demonstrate alternative ways to create timers using CountDownTimer and a Handler for educational purposes.
