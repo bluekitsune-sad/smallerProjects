@@ -29,4 +29,8 @@ Welcome to the Tic-Tac-Toe game! Play with a friend and see who can align three 
 
 - ![Saad](https://github.com/bluekitsune-sad)
 
+## Get in Touch:
+
+- 📧 [Email me](mailto:saadshaan619@gmail.com)
+
 Have fun playing Tic-Tac-Toe!
