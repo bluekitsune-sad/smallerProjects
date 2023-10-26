@@ -35,6 +35,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to contact the project maintainer:
 
-- 📧 Email: [your@email.com](mailto:saadshaan619@gmail.com)
+- 📧 Email: [get in touch](mailto:saadshaan619@gmail.com)
 
 Let's connect and make something amazing together! ✨
