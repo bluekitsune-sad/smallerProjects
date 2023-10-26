@@ -37,4 +37,8 @@ The core functionality of this app lies in generating and displaying times table
 4. Commit and push your changes to your forked repository.
 5. Create a Pull Request to merge your changes back into the original repository.
 
+## Get in Touch:
+
+- 📧 [Email me](mailto:saadshaan619@gmail.com)
+
 Enjoy practicing your times tables with the app!
