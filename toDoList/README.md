@@ -72,6 +72,6 @@ This project is licensed under the MIT License. Check out the LICENSE file for m
 
 Feel free to reach out if you have questions, suggestions, or just want to chat:
 
-📧 Email: saadshaan619@gmail.com
+- 📧 Email: [get in touch](mailto:saadshaan619@gmail.com)
 
 Let's connect and make something amazing together! ✨
