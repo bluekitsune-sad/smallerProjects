@@ -29,7 +29,7 @@ The core functionality of this app includes:
 - Playing a sound when the timer reaches zero using MediaPlayer.
 - Starting, stopping, and resetting the timer.
 
-## Author 👩‍💻👨‍💻
+## Author 👨‍💻
 
 - [Saad](https://github.com/bluekitsune-sad)
 
